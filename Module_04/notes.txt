@@ -1,0 +1,6 @@
+Data Analytics:
+    1. Descriptive: (What happened?)
+
+    2. Predictive: (What will happen?)
+
+    3. Prescriptive: (What should be done?)
